@@ -1,0 +1,46 @@
+// ===== Core volume =====
+Total Postings = COUNTROWS ( fact_job_postings )
+
+Remote Postings = CALCULATE ( [Total Postings], fact_job_postings[is_remote] = TRUE () )
+
+% Remote = DIVIDE ( [Remote Postings], [Total Postings] )
+
+// ===== Salary =====
+Median Salary = MEDIAN ( fact_job_postings[salary_annual] )
+
+Average Salary = AVERAGE ( fact_job_postings[salary_annual] )
+
+Salary P25 = PERCENTILE.INC ( fact_job_postings[salary_annual], 0.25 )
+
+Salary P75 = PERCENTILE.INC ( fact_job_postings[salary_annual], 0.75 )
+
+% Salary Disclosed =
+DIVIDE (
+    CALCULATE ( [Total Postings], fact_job_postings[salary_disclosed] = TRUE () ),
+    [Total Postings]
+)
+
+// ===== Skills =====
+Skill Postings = DISTINCTCOUNT ( bridge_job_skill[job_id] )
+
+Skill Share % =
+DIVIDE (
+    [Skill Postings],
+    CALCULATE ( [Total Postings], REMOVEFILTERS ( dim_skill ) )
+)
+
+Skill Rank =
+RANKX ( ALL ( dim_skill[skill] ), [Skill Postings],, DESC, DENSE )
+
+Avg Skills per Posting = AVERAGE ( fact_job_postings[skill_count] )
+
+// ===== Engagement =====
+Total Applies = SUM ( fact_job_postings[applies] )
+
+Apply Rate = DIVIDE ( [Total Applies], SUM ( fact_job_postings[views] ) )
+
+// ===== Time =====
+Postings WoW % =
+VAR Cur = [Total Postings]
+VAR Prev = CALCULATE ( [Total Postings], DATEADD ( dim_date[date], -7, DAY ) )
+RETURN DIVIDE ( Cur - Prev, Prev )

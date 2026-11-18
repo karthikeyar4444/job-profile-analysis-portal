@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jobportal"
+version = "1.0.0"
+description = "ETL + Power BI / Streamlit analytics for 50K+ job postings"
+requires-python = ">=3.9"
+dependencies = ["pandas>=1.5", "numpy>=1.23", "matplotlib>=3.6"]
+
+[project.optional-dependencies]
+app = ["streamlit>=1.30", "plotly>=5.18"]
+cloud = ["boto3>=1.28", "s3fs>=2023.6", "azure-storage-blob>=12.19", "pyarrow>=14"]
+dev = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

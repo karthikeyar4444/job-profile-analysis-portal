@@ -1,0 +1,11 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+streamlit>=1.30
+plotly>=5.18
+pytest>=7
+# optional
+pyarrow>=14          # --format parquet
+boto3>=1.28          # --upload-s3
+s3fs>=2023.6         # read s3:// paths
+azure-storage-blob>=12.19  # --upload-azure
