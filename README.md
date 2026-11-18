@@ -52,13 +52,42 @@ trends, skill demand and employment patterns**.
 
 ## Results
 
-> Fill in from `reports/run_summary.json` and `reports/data_quality_report.md` after running on the real dataset.
+| Metric | Value |
+|---|---|
+| Raw postings ingested | **123,849** |
+| Re-posted duplicates removed | **8,523** |
+| Clean postings in model | **115,308** |
+| Companies / locations | 24,423 / 8,335 |
+| Skill mentions extracted | **177,417** across 55 skills (+192K LinkedIn skill-category tags) |
+| Data-quality score (raw → cleaned) | **93.7% → 96.4%** |
+| Median disclosed annual salary | $83,000 (29% of postings disclose pay) |
+| Remote-eligible postings | 12% |
+| Full pipeline runtime | ~3 minutes on a laptop |
 
-- Postings processed: …
-- Data-quality score: … % → … %
-- Top skills / highest-paying skills / salary by level: see `reports/insights.md`
+**Key findings**
+- The most requested skills are soft skills (communication, customer service, project
+  management); the most requested technical skill is **SQL**.
+- The **highest-paying skills** are ML/AI-related: PyTorch, deep learning, NLP, TensorFlow,
+  scikit-learn and generative AI, all with medians around $150K–$180K.
+- **Data Science & ML** and **Data Engineering** have the highest median salaries of all job families.
+- California and Texas have the most postings.
 
-<!-- Add Power BI screenshots here, e.g. ![Overview](powerbi/screenshots/overview.png) -->
+Full tables: [`reports/insights.md`](reports/insights.md) · quality checks:
+[`reports/data_quality_report.md`](reports/data_quality_report.md)
+
+## Dashboard
+
+**Overview & skill demand**
+![Overview](docs/screenshots/01_overview_skill_demand.png)
+
+**Highest-paying skills**
+![Highest-paying skills](docs/screenshots/02_highest_paying_skills.png)
+
+**Salary trends by job family and experience level**
+![Salary trends](docs/screenshots/03_salary_trends.png)
+
+**Employment patterns: postings by state, work type, experience level**
+![Employment patterns](docs/screenshots/04_employment_patterns.png)
 
 ## Quick start
 

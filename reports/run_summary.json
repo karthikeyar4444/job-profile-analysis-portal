@@ -1,0 +1,41 @@
+{
+  "etl_log": {
+    "rows_in": 123849,
+    "duplicate_job_ids_removed": 0,
+    "reposted_duplicates_removed": 8523,
+    "rows_out": 115308,
+    "salary_disclosed_pct": 0.2947,
+    "skill_mentions": 177417
+  },
+  "quality_before": {
+    "label": "raw",
+    "rows": 123849,
+    "checks": {
+      "unique_job_id": 1.0,
+      "unique_posting_content": 0.9319,
+      "title_present_and_clean": 0.9839,
+      "company_present": 0.9861,
+      "location_has_valid_state": 0.8485,
+      "experience_level_present": 0.7625,
+      "salary_valid_when_present": 0.9861,
+      "work_type_present": 1.0
+    },
+    "overall_score": 0.9374
+  },
+  "quality_after": {
+    "label": "cleaned",
+    "rows": 115308,
+    "checks": {
+      "unique_job_id": 1.0,
+      "unique_posting_content": 1.0,
+      "title_present_and_clean": 1.0,
+      "company_present": 0.9858,
+      "location_has_valid_state": 0.8809,
+      "experience_level_present": 0.8456,
+      "salary_valid_when_present": 1.0,
+      "work_type_present": 1.0
+    },
+    "overall_score": 0.964
+  },
+  "runtime_sec": 170.1
+}
