@@ -15,7 +15,9 @@ An end-to-end analytics project on the job market, in two parts:
 
 ## 1. Live Federal Data & Tech Job Market
 
-<!-- LIVE_APP_LINK: add your Streamlit Community Cloud link here after deploying -->
+**🔴 Live dashboard: [federal-tech-jobs-live.streamlit.app](https://federal-tech-jobs-live.streamlit.app)** — refreshed automatically every morning.
+
+On its first run (Nov 20, 2026) the pipeline collected **823 open postings** across 10 federal data and tech job series, with a median starting salary of **$102,415**.
 
 ```
  USAJOBS Search API (official, data.usajobs.gov)
