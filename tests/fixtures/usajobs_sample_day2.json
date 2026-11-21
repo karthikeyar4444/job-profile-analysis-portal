@@ -1,0 +1,3662 @@
+{
+ "SearchResult": {
+  "SearchResultCount": 58,
+  "SearchResultCountAll": 58,
+  "SearchResultItems": [
+   {
+    "MatchedObjectId": "800010",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-10",
+     "PositionTitle": "IT Specialist (INFOSEC)",
+     "PositionURI": "https://www.usajobs.gov/job/800010",
+     "PositionLocationDisplay": "Maryland",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Virginia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (INFOSEC)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-01T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Statistical analysis using SAS and R, communicate results.",
+       "MajorDuties": [
+        "Manage cloud infrastructure on Azure and AWS; Linux; Docker."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800011",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-11",
+     "PositionTitle": "Economist",
+     "PositionURI": "https://www.usajobs.gov/job/800011",
+     "PositionLocationDisplay": "Virginia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Department of the Army",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Economist",
+       "Code": "0110"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-19T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Statistical analysis using SAS and R, communicate results.",
+       "MajorDuties": [
+        "Build Power BI dashboards and Excel models; project management."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800012",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-12",
+     "PositionTitle": "Operations Research Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800012",
+     "PositionLocationDisplay": "District of Columbia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Virginia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Operations Research Analyst",
+       "Code": "1515"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-03T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Experience with Python, SQL and Tableau to analyze data.",
+       "MajorDuties": [
+        "Build Power BI dashboards and Excel models; project management."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800013",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-13",
+     "PositionTitle": "IT Specialist (DATAMGT)",
+     "PositionURI": "https://www.usajobs.gov/job/800013",
+     "PositionLocationDisplay": "Texas",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (DATAMGT)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "85000",
+       "MaximumRange": "110500",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-02T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Statistical analysis using SAS and R, communicate results.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800014",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-14",
+     "PositionTitle": "Management and Program Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800014",
+     "PositionLocationDisplay": "Anywhere in the U.S. (remote job)",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Texas",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Management and Program Analyst",
+       "Code": "0343"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "85000",
+       "MaximumRange": "110500",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-17T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": true
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800015",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-15",
+     "PositionTitle": "Data Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800015",
+     "PositionLocationDisplay": "Colorado",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Data Scientist",
+       "Code": "1560"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Agile delivery; Jira; communication skills; leadership.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-08T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Statistical analysis using SAS and R, communicate results.",
+       "MajorDuties": [
+        "Manage cloud infrastructure on Azure and AWS; Linux; Docker."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800016",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-16",
+     "PositionTitle": "Operations Research Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800016",
+     "PositionLocationDisplay": "Maryland",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Operations Research Analyst",
+       "Code": "1515"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-14T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Build Power BI dashboards and Excel models; project management.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800017",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-17",
+     "PositionTitle": "IT Specialist (DATAMGT)",
+     "PositionURI": "https://www.usajobs.gov/job/800017",
+     "PositionLocationDisplay": "Colorado",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Internal Revenue Service",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (DATAMGT)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-11T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800018",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-18",
+     "PositionTitle": "Management and Program Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800018",
+     "PositionLocationDisplay": "California",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Management and Program Analyst",
+       "Code": "0343"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-19T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Experience with Python, SQL and Tableau to analyze data.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800019",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-19",
+     "PositionTitle": "IT Specialist (DATAMGT)",
+     "PositionURI": "https://www.usajobs.gov/job/800019",
+     "PositionLocationDisplay": "Maryland",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "California",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (DATAMGT)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Statistical analysis using SAS and R, communicate results.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "99000",
+       "MaximumRange": "128700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-19T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Build Power BI dashboards and Excel models; project management.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800020",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-20",
+     "PositionTitle": "Statistician",
+     "PositionURI": "https://www.usajobs.gov/job/800020",
+     "PositionLocationDisplay": "District of Columbia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Statistician",
+       "Code": "1530"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Build Power BI dashboards and Excel models; project management.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "99000",
+       "MaximumRange": "128700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-09T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Statistical analysis using SAS and R, communicate results.",
+       "MajorDuties": [
+        "Manage cloud infrastructure on Azure and AWS; Linux; Docker."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800021",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-21",
+     "PositionTitle": "Data Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800021",
+     "PositionLocationDisplay": "Anywhere in the U.S. (remote job)",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Internal Revenue Service",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Data Scientist",
+       "Code": "1560"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Statistical analysis using SAS and R, communicate results.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-17T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": true
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800022",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-22",
+     "PositionTitle": "Operations Research Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800022",
+     "PositionLocationDisplay": "Maryland",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "District of Columbia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Operations Research Analyst",
+       "Code": "1515"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Agile delivery; Jira; communication skills; leadership.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "85000",
+       "MaximumRange": "110500",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-04T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Experience with Python, SQL and Tableau to analyze data.",
+       "MajorDuties": [
+        "Build Power BI dashboards and Excel models; project management."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800023",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-23",
+     "PositionTitle": "Management and Program Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800023",
+     "PositionLocationDisplay": "California",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "District of Columbia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Management and Program Analyst",
+       "Code": "0343"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "99000",
+       "MaximumRange": "128700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-03T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Statistical analysis using SAS and R, communicate results.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800024",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-24",
+     "PositionTitle": "Computer Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800024",
+     "PositionLocationDisplay": "Texas",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Internal Revenue Service",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Computer Scientist",
+       "Code": "1550"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-02T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Build Power BI dashboards and Excel models; project management.",
+       "MajorDuties": [
+        "Develop machine learning models in Python using scikit-learn and AWS."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800025",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-25",
+     "PositionTitle": "Management and Program Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800025",
+     "PositionLocationDisplay": "District of Columbia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Management and Program Analyst",
+       "Code": "0343"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Agile delivery; Jira; communication skills; leadership.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-03T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Build Power BI dashboards and Excel models; project management.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800026",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-26",
+     "PositionTitle": "Statistician",
+     "PositionURI": "https://www.usajobs.gov/job/800026",
+     "PositionLocationDisplay": "Maryland",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Statistician",
+       "Code": "1530"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-12T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Agile delivery; Jira; communication skills; leadership.",
+       "MajorDuties": [
+        "Manage cloud infrastructure on Azure and AWS; Linux; Docker."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800027",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-27",
+     "PositionTitle": "Operations Research Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800027",
+     "PositionLocationDisplay": "Colorado",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Texas",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Department of the Army",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Operations Research Analyst",
+       "Code": "1515"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-05T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+       "MajorDuties": [
+        "Experience with Python, SQL and Tableau to analyze data."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800028",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-28",
+     "PositionTitle": "IT Specialist (INFOSEC)",
+     "PositionURI": "https://www.usajobs.gov/job/800028",
+     "PositionLocationDisplay": "Anywhere in the U.S. (remote job)",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (INFOSEC)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Build Power BI dashboards and Excel models; project management.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-08T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Experience with Python, SQL and Tableau to analyze data.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": true
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800029",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-29",
+     "PositionTitle": "IT Specialist (INFOSEC)",
+     "PositionURI": "https://www.usajobs.gov/job/800029",
+     "PositionLocationDisplay": "Maryland",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (INFOSEC)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-03T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Build Power BI dashboards and Excel models; project management.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800030",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-30",
+     "PositionTitle": "Data Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800030",
+     "PositionLocationDisplay": "Virginia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Virginia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Internal Revenue Service",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Data Scientist",
+       "Code": "1560"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "85000",
+       "MaximumRange": "110500",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-19T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Experience with Python, SQL and Tableau to analyze data.",
+       "MajorDuties": [
+        "Experience with Python, SQL and Tableau to analyze data."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800031",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-31",
+     "PositionTitle": "IT Specialist (INFOSEC)",
+     "PositionURI": "https://www.usajobs.gov/job/800031",
+     "PositionLocationDisplay": "District of Columbia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (INFOSEC)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-01T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Build Power BI dashboards and Excel models; project management.",
+       "MajorDuties": [
+        "Build Power BI dashboards and Excel models; project management."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800032",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-32",
+     "PositionTitle": "Economist",
+     "PositionURI": "https://www.usajobs.gov/job/800032",
+     "PositionLocationDisplay": "Colorado",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Virginia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Economist",
+       "Code": "0110"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-09T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Build Power BI dashboards and Excel models; project management.",
+       "MajorDuties": [
+        "Manage cloud infrastructure on Azure and AWS; Linux; Docker."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800033",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-33",
+     "PositionTitle": "IT Specialist (DATAMGT)",
+     "PositionURI": "https://www.usajobs.gov/job/800033",
+     "PositionLocationDisplay": "District of Columbia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "District of Columbia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Department of the Army",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (DATAMGT)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Build Power BI dashboards and Excel models; project management.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "99000",
+       "MaximumRange": "128700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-04T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+       "MajorDuties": [
+        "Develop machine learning models in Python using scikit-learn and AWS."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800034",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-34",
+     "PositionTitle": "Operations Research Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800034",
+     "PositionLocationDisplay": "Virginia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Texas",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Operations Research Analyst",
+       "Code": "1515"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "85000",
+       "MaximumRange": "110500",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-09T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800035",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-35",
+     "PositionTitle": "Economist",
+     "PositionURI": "https://www.usajobs.gov/job/800035",
+     "PositionLocationDisplay": "Anywhere in the U.S. (remote job)",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Texas",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Economist",
+       "Code": "0110"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-02T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+       "MajorDuties": [
+        "Experience with Python, SQL and Tableau to analyze data."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": true
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800036",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-36",
+     "PositionTitle": "Data Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800036",
+     "PositionLocationDisplay": "Virginia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Texas",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Department of the Army",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Data Scientist",
+       "Code": "1560"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Agile delivery; Jira; communication skills; leadership.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-03T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Build Power BI dashboards and Excel models; project management.",
+       "MajorDuties": [
+        "Build Power BI dashboards and Excel models; project management."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800037",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-37",
+     "PositionTitle": "IT Specialist (INFOSEC)",
+     "PositionURI": "https://www.usajobs.gov/job/800037",
+     "PositionLocationDisplay": "District of Columbia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Department of the Army",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (INFOSEC)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Statistical analysis using SAS and R, communicate results.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "99000",
+       "MaximumRange": "128700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-13T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Agile delivery; Jira; communication skills; leadership.",
+       "MajorDuties": [
+        "Manage cloud infrastructure on Azure and AWS; Linux; Docker."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800038",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-38",
+     "PositionTitle": "Operations Research Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800038",
+     "PositionLocationDisplay": "Maryland",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "District of Columbia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Operations Research Analyst",
+       "Code": "1515"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "99000",
+       "MaximumRange": "128700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-04T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+       "MajorDuties": [
+        "Build Power BI dashboards and Excel models; project management."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800039",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-39",
+     "PositionTitle": "IT Specialist (DATAMGT)",
+     "PositionURI": "https://www.usajobs.gov/job/800039",
+     "PositionLocationDisplay": "Virginia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Internal Revenue Service",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (DATAMGT)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-12T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+       "MajorDuties": [
+        "Build Power BI dashboards and Excel models; project management."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800040",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-40",
+     "PositionTitle": "Economist",
+     "PositionURI": "https://www.usajobs.gov/job/800040",
+     "PositionLocationDisplay": "Colorado",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Texas",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Department of the Army",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Economist",
+       "Code": "0110"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Statistical analysis using SAS and R, communicate results.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-16T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Agile delivery; Jira; communication skills; leadership.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800041",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-41",
+     "PositionTitle": "Economist",
+     "PositionURI": "https://www.usajobs.gov/job/800041",
+     "PositionLocationDisplay": "Texas",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Virginia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Internal Revenue Service",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Economist",
+       "Code": "0110"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-18T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Statistical analysis using SAS and R, communicate results.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800042",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-42",
+     "PositionTitle": "Data Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800042",
+     "PositionLocationDisplay": "Anywhere in the U.S. (remote job)",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "District of Columbia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Data Scientist",
+       "Code": "1560"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-01T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Statistical analysis using SAS and R, communicate results.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": true
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800043",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-43",
+     "PositionTitle": "Operations Research Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800043",
+     "PositionLocationDisplay": "Texas",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "California",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Department of the Army",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Operations Research Analyst",
+       "Code": "1515"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Agile delivery; Jira; communication skills; leadership.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-17T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800044",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-44",
+     "PositionTitle": "Data Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800044",
+     "PositionLocationDisplay": "Colorado",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Department of the Army",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Data Scientist",
+       "Code": "1560"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Build Power BI dashboards and Excel models; project management.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "99000",
+       "MaximumRange": "128700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-01T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+       "MajorDuties": [
+        "Develop machine learning models in Python using scikit-learn and AWS."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800045",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-45",
+     "PositionTitle": "Computer Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800045",
+     "PositionLocationDisplay": "Virginia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Department of the Army",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Computer Scientist",
+       "Code": "1550"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Build Power BI dashboards and Excel models; project management.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-04T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Agile delivery; Jira; communication skills; leadership.",
+       "MajorDuties": [
+        "Manage cloud infrastructure on Azure and AWS; Linux; Docker."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800046",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-46",
+     "PositionTitle": "Statistician",
+     "PositionURI": "https://www.usajobs.gov/job/800046",
+     "PositionLocationDisplay": "Maryland",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Virginia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Department of the Army",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Statistician",
+       "Code": "1530"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-16T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Agile delivery; Jira; communication skills; leadership.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800047",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-47",
+     "PositionTitle": "Operations Research Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800047",
+     "PositionLocationDisplay": "Virginia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Internal Revenue Service",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Operations Research Analyst",
+       "Code": "1515"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-18T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Agile delivery; Jira; communication skills; leadership.",
+       "MajorDuties": [
+        "Experience with Python, SQL and Tableau to analyze data."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800048",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-48",
+     "PositionTitle": "IT Specialist (DATAMGT)",
+     "PositionURI": "https://www.usajobs.gov/job/800048",
+     "PositionLocationDisplay": "Maryland",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Internal Revenue Service",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (DATAMGT)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-08T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800049",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-49",
+     "PositionTitle": "Computer Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800049",
+     "PositionLocationDisplay": "Anywhere in the U.S. (remote job)",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Computer Scientist",
+       "Code": "1550"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Statistical analysis using SAS and R, communicate results.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-12T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Build Power BI dashboards and Excel models; project management.",
+       "MajorDuties": [
+        "Manage cloud infrastructure on Azure and AWS; Linux; Docker."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": true
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800050",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-50",
+     "PositionTitle": "Management and Program Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800050",
+     "PositionLocationDisplay": "Texas",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Virginia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Management and Program Analyst",
+       "Code": "0343"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Build Power BI dashboards and Excel models; project management.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-08T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800051",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-51",
+     "PositionTitle": "Statistician",
+     "PositionURI": "https://www.usajobs.gov/job/800051",
+     "PositionLocationDisplay": "California",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Statistician",
+       "Code": "1530"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-13T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+       "MajorDuties": [
+        "Develop machine learning models in Python using scikit-learn and AWS."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800052",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-52",
+     "PositionTitle": "Data Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800052",
+     "PositionLocationDisplay": "California",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Texas",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Data Scientist",
+       "Code": "1560"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Build Power BI dashboards and Excel models; project management.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-06T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800053",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-53",
+     "PositionTitle": "Computer Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800053",
+     "PositionLocationDisplay": "Colorado",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Computer Scientist",
+       "Code": "1550"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "85000",
+       "MaximumRange": "110500",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-18T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Statistical analysis using SAS and R, communicate results.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800054",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-54",
+     "PositionTitle": "Economist",
+     "PositionURI": "https://www.usajobs.gov/job/800054",
+     "PositionLocationDisplay": "Colorado",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Economist",
+       "Code": "0110"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-10T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Experience with Python, SQL and Tableau to analyze data.",
+       "MajorDuties": [
+        "Statistical analysis using SAS and R, communicate results."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800055",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-55",
+     "PositionTitle": "IT Specialist (INFOSEC)",
+     "PositionURI": "https://www.usajobs.gov/job/800055",
+     "PositionLocationDisplay": "District of Columbia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "District of Columbia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (INFOSEC)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-11T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+       "MajorDuties": [
+        "Develop machine learning models in Python using scikit-learn and AWS."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800056",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-56",
+     "PositionTitle": "Economist",
+     "PositionURI": "https://www.usajobs.gov/job/800056",
+     "PositionLocationDisplay": "Anywhere in the U.S. (remote job)",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "California",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Internal Revenue Service",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Economist",
+       "Code": "0110"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-19T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Agile delivery; Jira; communication skills; leadership.",
+       "MajorDuties": [
+        "Build Power BI dashboards and Excel models; project management."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": true
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800057",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-57",
+     "PositionTitle": "IT Specialist (DATAMGT)",
+     "PositionURI": "https://www.usajobs.gov/job/800057",
+     "PositionLocationDisplay": "California",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Virginia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (DATAMGT)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Agile delivery; Jira; communication skills; leadership.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-02T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+       "MajorDuties": [
+        "Develop machine learning models in Python using scikit-learn and AWS."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800058",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-58",
+     "PositionTitle": "Computer Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800058",
+     "PositionLocationDisplay": "District of Columbia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Internal Revenue Service",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Computer Scientist",
+       "Code": "1550"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-09T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+       "MajorDuties": [
+        "Develop machine learning models in Python using scikit-learn and AWS."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800059",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-59",
+     "PositionTitle": "IT Specialist (DATAMGT)",
+     "PositionURI": "https://www.usajobs.gov/job/800059",
+     "PositionLocationDisplay": "District of Columbia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Virginia",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "IT Specialist (DATAMGT)",
+       "Code": "2210"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "99000",
+       "MaximumRange": "128700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-14T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Experience with Python, SQL and Tableau to analyze data.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800100",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-100",
+     "PositionTitle": "Data Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800100",
+     "PositionLocationDisplay": "Virginia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Data Scientist",
+       "Code": "1560"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-12T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+       "MajorDuties": [
+        "Build Power BI dashboards and Excel models; project management."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800101",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-101",
+     "PositionTitle": "Management and Program Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800101",
+     "PositionLocationDisplay": "Virginia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Management and Program Analyst",
+       "Code": "0343"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-13T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+       "MajorDuties": [
+        "Experience with Python, SQL and Tableau to analyze data."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800102",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-102",
+     "PositionTitle": "Computer Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800102",
+     "PositionLocationDisplay": "California",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Texas",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Computer Scientist",
+       "Code": "1550"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Develop machine learning models in Python using scikit-learn and AWS.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-18T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Statistical analysis using SAS and R, communicate results.",
+       "MajorDuties": [
+        "Experience with Python, SQL and Tableau to analyze data."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800103",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-103",
+     "PositionTitle": "Operations Research Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800103",
+     "PositionLocationDisplay": "California",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Texas",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Department of the Army",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Operations Research Analyst",
+       "Code": "1515"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "62000",
+       "MaximumRange": "80600",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-17T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Statistical analysis using SAS and R, communicate results.",
+       "MajorDuties": [
+        "Experience with Python, SQL and Tableau to analyze data."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800104",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-104",
+     "PositionTitle": "Management and Program Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800104",
+     "PositionLocationDisplay": "Texas",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Management and Program Analyst",
+       "Code": "0343"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "99000",
+       "MaximumRange": "128700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-11T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Agile delivery; Jira; communication skills; leadership.",
+       "MajorDuties": [
+        "Build Power BI dashboards and Excel models; project management."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800105",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-105",
+     "PositionTitle": "Data Scientist",
+     "PositionURI": "https://www.usajobs.gov/job/800105",
+     "PositionLocationDisplay": "Anywhere in the U.S. (remote job)",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Data Scientist",
+       "Code": "1560"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "117000",
+       "MaximumRange": "152100",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-10T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Agile delivery; Jira; communication skills; leadership.",
+       "MajorDuties": [
+        "Agile delivery; Jira; communication skills; leadership."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": true
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800106",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-106",
+     "PositionTitle": "Statistician",
+     "PositionURI": "https://www.usajobs.gov/job/800106",
+     "PositionLocationDisplay": "District of Columbia",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Maryland",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Veterans Health Administration",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Statistician",
+       "Code": "1530"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Experience with Python, SQL and Tableau to analyze data.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "85000",
+       "MaximumRange": "110500",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-04T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Build Power BI dashboards and Excel models; project management.",
+       "MajorDuties": [
+        "Develop machine learning models in Python using scikit-learn and AWS."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": true,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   },
+   {
+    "MatchedObjectId": "800107",
+    "MatchedObjectDescriptor": {
+     "PositionID": "ABC-107",
+     "PositionTitle": "Management and Program Analyst",
+     "PositionURI": "https://www.usajobs.gov/job/800107",
+     "PositionLocationDisplay": "Texas",
+     "PositionLocation": [
+      {
+       "LocationName": "x",
+       "CityName": "Fairfax",
+       "CountrySubDivisionCode": "Colorado",
+       "CountryCode": "United States"
+      }
+     ],
+     "OrganizationName": "Census Bureau",
+     "DepartmentName": "Dept",
+     "JobCategory": [
+      {
+       "Name": "Management and Program Analyst",
+       "Code": "0343"
+      }
+     ],
+     "JobGrade": [
+      {
+       "Code": "GS"
+      }
+     ],
+     "PositionSchedule": [
+      {
+       "Name": "Full-time",
+       "Code": "1"
+      }
+     ],
+     "QualificationSummary": "Agile delivery; Jira; communication skills; leadership.",
+     "PositionRemuneration": [
+      {
+       "MinimumRange": "139000",
+       "MaximumRange": "180700",
+       "RateIntervalCode": "PA",
+       "Description": "Per Year"
+      }
+     ],
+     "PublicationStartDate": "2026-11-06T00:00:00.0000",
+     "ApplicationCloseDate": "2026-12-15T23:59:59.9970",
+     "UserArea": {
+      "Details": {
+       "JobSummary": "Manage cloud infrastructure on Azure and AWS; Linux; Docker.",
+       "MajorDuties": [
+        "Manage cloud infrastructure on Azure and AWS; Linux; Docker."
+       ],
+       "LowGrade": "11",
+       "HighGrade": "13",
+       "WhoMayApply": {
+        "Name": "United States Citizens",
+        "Code": "15317"
+       },
+       "TeleworkEligible": false,
+       "RemoteIndicator": false
+      }
+     }
+    }
+   }
+  ]
+ }
+}
