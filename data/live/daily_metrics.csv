@@ -1,3 +1,4 @@
 date,open_postings,new_postings,closed_since_last_run,median_salary_min,median_salary_max,remote_share,telework_share,agencies
 2026-11-20,823,823,0,102415.0,148226.0,0.0049,0.6865,179
 2026-11-21,738,2,87,102415.0,145896.5,0.0054,0.6694,164
+2026-11-22,728,0,10,102415.0,145896.5,0.0027,0.6703,163
